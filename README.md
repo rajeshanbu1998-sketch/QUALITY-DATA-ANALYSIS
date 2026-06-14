@@ -17,5 +17,5 @@ Analyzed quality data using Python.
 ## Results
 - Total wastage
 - Monthly Trends
-- Top wastage by item no
+- Highest wastage by item no
 
